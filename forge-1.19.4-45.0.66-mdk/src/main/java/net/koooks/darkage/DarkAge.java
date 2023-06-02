@@ -16,9 +16,9 @@ import org.slf4j.Logger;
 @Mod(DarkAge.MOD_ID)
 public class DarkAge
 {
-    // Define mod id in a common place for everything to reference
+
     public static final String MOD_ID = "darkage";
-    // Directly reference a slf4j logger
+
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public DarkAge()
